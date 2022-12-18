@@ -1,0 +1,12 @@
+https://www.cms.gov/cciio/resources/data-resources/marketplace-puf
+
+years 2017-2021
+The files downloaded are
+1)plan-attributes-puf
+2)rate-puf
+3)business rules
+4)benefits and cost sharing
+5)service area puf
+6)machine readable url
+7)network puf
+8)tranparency in coverage puf
